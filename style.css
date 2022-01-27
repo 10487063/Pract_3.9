@@ -1,0 +1,27 @@
+h1.plantilla {
+    background-color: black;
+    text-align: center;
+}
+
+span.plan {
+    color: orange;
+    text-align: center;
+}
+
+img.jaume {
+    float:left;
+    
+}
+
+hr.both {
+    clear: both;
+    color: transparent
+}
+
+img.correia {
+    float: left;
+}
+
+img.racic  {
+    float: left;
+}
